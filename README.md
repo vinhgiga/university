@@ -29,7 +29,7 @@ Clone this repository:
 Change working directory to OCR_System:
 
 ```powershell
-> cd OCR_System
+> cd university/OCR_System
 ```
 
 Create and activate a Python virtual environment (optional):
